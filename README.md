@@ -1,9 +1,13 @@
 # AR-ART
-Poster
+Poster Link:
 https://github.com/K00215515/ARART/blob/master/AR%20Poster.pdf
 
-APK
+APK Link:
 https://github.com/K00215515/ARART/blob/master/AR%20Art.apk
+
+Video Link:
+https://www.youtube.com/watch?v=CTPgKks8hGI
+
 
 AR Art Rationale
 This project rationale will be discussing the AR Art assignment and describing the process of making and designed the poster and the unity build model.
